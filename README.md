@@ -11,8 +11,6 @@ This repo contains the codes for the JSTARS paper: [Attentional Dense Convolutio
 
 ## Usage
 
-(comming soon)
-
 ./codes/model_ADCNN.py is the proposed model.
 
 

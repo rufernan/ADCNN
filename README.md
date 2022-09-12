@@ -22,8 +22,8 @@ This repo contains the codes for the JSTARS paper: [Attentional Dense Convolutio
   title={Attentional Dense Convolutional Neural Network for Water Body Extraction From Sentinel-2 Images},
   author={Parajuli, Janak and Fernandez-Beltran, Ruben and Kang, Jian and Pla, Filiberto},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  volume={},
-  pages={--},
+  volume={15},
+  pages={6804--6816},
   year={2022},
   publisher={IEEE},
   doi={10.1109/JSTARS.2022.3198497}
